@@ -1,0 +1,16 @@
+.Header-head{
+    width:25vh;
+    height:40px;
+    background-color: rgb(146,71,68);
+    padding:30px;
+    margin:0px;
+    color:white;
+    font-size: 30px;
+    font-family: Helvetica;
+    border-bottom-right-radius: 5px;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}

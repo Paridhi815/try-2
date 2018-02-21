@@ -1,0 +1,37 @@
+.Book-start{
+    background-color: rgb(140,30,72);
+    width:10%;
+}
+.Book-details{
+background-color: rgb(191,191,191);
+width:70%;
+}
+
+.Book-one{
+    background-color: rgb(1,30,72);
+    width:10%;
+}
+
+.Book-two{
+    background-color: rgb(140,30,72);
+    width:10%;
+}
+.Book-colorYellow{
+    background-color: yellow;
+}
+
+.Book-rating{
+background-color: rgb(250,224,121);
+width:20%;
+}
+
+.Book-div {
+    display: flex;
+    flex-direction: row;
+    height:60px;
+    margin: 10px;
+}
+
+.Book-blue{
+    background: blue;
+}
